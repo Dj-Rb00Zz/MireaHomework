@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028495162640",
+    "project_id": "mireahomeproject7",
+    "storage_bucket": "mireahomeproject7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028495162640:android:e8d0384f05baa8c01eb995",
+        "android_client_info": {
+          "package_name": "ru.mirea.andreev.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028495162640-pij06ja9kl5ngp4dm42p03mj0pkpjd3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEbDo_JBMmI-m4bRBsh3jXTpGiEXyHBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028495162640-pij06ja9kl5ngp4dm42p03mj0pkpjd3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
