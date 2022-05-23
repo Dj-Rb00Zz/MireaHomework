@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="new_life_for_mirea_activity">new life for mirea activity</string>
+    <string name="four_button">Четвертая кнопка</string>
+    <string name="six_button">Шестая кнопка</string>
+    <string name="third_button">Третья кнопка</string>
+</resources>
