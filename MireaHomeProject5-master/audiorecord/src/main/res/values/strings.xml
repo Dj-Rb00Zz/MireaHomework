@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">AudioRecord</string>
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-</resources>
