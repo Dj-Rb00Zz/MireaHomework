@@ -27,7 +27,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity  implements DrivingSession.DrivingRouteListener {
-    private final String MAPKIT_API_KEY = "089c51a7-4e29-4387-858d-a58dade7149d";
+    private final String MAPKIT_API_KEY = "336abc59-34d3-43eb-bc9e-2d7618ac3700";
     private final Point ROUTE_START_LOCATION = new Point(55.670005, 37.479894);
     private final Point ROUTE_END_LOCATION = new Point(55.794229, 37.700772);
     private final Point SCREEN_CENTER = new Point(
